@@ -8,11 +8,10 @@ import (
 // find the length of the string
 // loop through half of the string
 // convert the whole string to lowercase
-//
 
-func main(){
-	package main
-import "fmt"
+func checkPallindrom(){
+	
+}
 
 func main() {
 	// Check if a number is a pallindrom
@@ -42,5 +41,8 @@ func main() {
 // 	}
 
 // }
+
+
+// Check for Pallindrom using a for loop
 	fmt.Println(strings.Split("splitted string of chars", ","))
 }  
